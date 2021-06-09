@@ -1,6 +1,6 @@
 # watch_store
 
-A new Flutter project.
+This is one of my first Flutter project. Here I have tried to explore UI and navigation options in flutter.
 
 ## Getting Started
 
